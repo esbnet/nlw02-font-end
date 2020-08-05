@@ -1,4 +1,5 @@
-<p align="center"><img width="500px" align="center" src="https://github.com/esbnet/nlw02-font-end/src/assets/images/landing.svg"></img></p>
+![2 - NLW #02 - 1400x900](https://user-images.githubusercontent.com/12105370/89473823-4b628e00-d75a-11ea-976c-52ee28daa798.jpg)
+
 # PLATAFORMA DE ESTUDO 
 ## (by #Rockeseet @Rocketseet)
 
